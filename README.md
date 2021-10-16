@@ -1,6 +1,6 @@
 # VikingsFlix
 
-> O VikingsFlix é um clone do layout da Netflix, criada com o objetivo de práticar algumas tecnologias de front-end e apresentar alguns dos principais personagens da serie Vikings, além de mostrar essa serie incrivel de uma forma criativa e familia.
+> O VikingsFlix é um clone do layout da Netflix, criada com o objetivo de práticar algumas tecnologias de front-end e apresentar alguns dos principais personagens da serie Vikings, além de mostrar essa serie incrivel de uma forma criativa e familiar
 
 ![VikingsFlix](https://user-images.githubusercontent.com/72396372/137593294-c019f24e-2a72-4dc6-92b9-1fba92601442.png)
 
